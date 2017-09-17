@@ -1,0 +1,6 @@
+nwb nwbuild -p win64 -o dist  --executable-name PicGame --win-ico favicon.ico
+nwb nwbuild -p win64 -o distr  --executable-name PicGame --win-ico favicon.ico --side-by-side --enable-logging=stderr
+
+nwb nwbuild -p win64 -o F:\Study\web\distr  --executable-name PicGame --win-ico favicon.ico --side-by-side
+
+nwb nwbuild -p osx64 -o F:\Study\web\distr  --executable-name PicGame --side-by-side

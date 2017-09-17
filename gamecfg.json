@@ -1,0 +1,7 @@
+{
+  "name": "Picture game",
+  "version": "0.0.1",
+  "description": "Play association game with friends",
+  "defaultport": "8080",
+  "serversidescalling": "false"
+}
